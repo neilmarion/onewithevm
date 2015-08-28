@@ -16,6 +16,10 @@ gem "twitter-bootstrap-rails"
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'redis'
+gem 'redis-namespace'
+gem 'redis-rails'
+gem 'capistrano', '2.15.5'
 
 group :development, :test do
   gem 'byebug'

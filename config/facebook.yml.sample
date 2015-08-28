@@ -1,0 +1,11 @@
+production:
+  key:
+  secret:
+
+development:
+  key:
+  secret:
+
+test:
+  key:
+  secret:
